@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string-array name="Lines">
+        <item>Red Line</item>
+        <item>Blue Line</item>
+        <item>Orange Line</item>
+        <item>Green Line</item>
+        <item>Brown Line</item>
+        <item>Purple Line</item>
+        <item>Pink Line</item>
+        <item>Yellow Line</item>
+    </string-array>
+</resources>
